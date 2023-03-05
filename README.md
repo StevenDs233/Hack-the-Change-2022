@@ -29,4 +29,6 @@ We learned how we can use Java to incorporate the backend. We also learned mappi
 
 What's next for EduAll
 In the future, we plan to make EduAll the way we originally wanted it to by using the material we will learn in the future.
+
+##The orginal Grades Pages
 ![2](https://user-images.githubusercontent.com/60623042/222923616-9eeb07ca-b51a-4c4a-b963-2d45e459ae88.JPG)
